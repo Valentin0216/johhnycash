@@ -8,15 +8,16 @@
 <br>
 
 <div align="center">
-    <p>:muscle:Márk → S1 alapkonfig + S1 VLAN:muscle:</p>
-    <p>:nerd_face:	Gábor → S2 alapkonfig + S2 VLAN:nerd_face:	</p>
-    <p>:man_technologist:	Valentin → S3 alapkonfig + S3 VLAN + IP címek:man_technologist:	</p>
-    <p>:mending_heart: A SZERETET ÉL,
+    <p>:muscle:Márk → Router konfigális:muscle:</p>
+    <p>:nerd_face:Gábor → Jobb oldali switchek:nerd_face:	</p>
+    <p>:man_technologist:Valentin → Bal oldali switchek:man_technologist:	</p>
+    <p>:smiley_cat:Adamo → IP cím adás az eszközöknek:smiley_cat:	</p>
+    <p>:heart:A SZERETET ÉL,
 NEKED MONDOM.
 A SZERETET ÉL,
 KEZEM NYÚJTOM.
 HOGY SOHASE FÉLJ,
-HOGY SZABADON ÉLJ! :mending_heart: </p>
+HOGY SZABADON ÉLJ!:heart:</p>
     <br>
     <a href="https://www.youtube.com/watch?v=-AXetJvTfU0" target="_blank">E-KRÉTA HACK 100%!!!!</a>
     <br>
