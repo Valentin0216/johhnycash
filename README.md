@@ -9,7 +9,7 @@
 
 <div align="center">
     <p>:muscle:Márk → S1 alapkonfig + S1 VLAN:muscle:</p>
-    <p>:rofl:	Gábor → S2 alapkonfig + S2 VLAN:rofl:	</p>
+    <p>:nerd_face:	Gábor → S2 alapkonfig + S2 VLAN:nerd_face:	</p>
     <p>:man_technologist:	Valentin → S3 alapkonfig + S3 VLAN + IP címek:man_technologist:	</p>
     <p>:smiley_cat:Morelli → Nem csinált semmit:smiley_cat:</p>
     <br>
