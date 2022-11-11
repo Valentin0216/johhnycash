@@ -8,10 +8,10 @@
 <br>
 
 <div align="center">
-    <p>:muscle:Márk → Router konfigális:muscle:</p>
+    <p>:muscle:Márk → Router konfigolás:muscle:</p>
     <p>:nerd_face:Gábor → Jobb oldali switchek:nerd_face:	</p>
     <p>:man_technologist:Valentin → Bal oldali switchek:man_technologist:	</p>
-    <p>:smiley_cat:Adamo → IP cím adás az eszközöknek:smiley_cat:	</p>
+    <p>:smiley_cat:Adamo → IP cím adás az eszközöknek (Hiányozott):smiley_cat:	</p>
     <p>:heart:A SZERETET ÉL,
 NEKED MONDOM.
 A SZERETET ÉL,
